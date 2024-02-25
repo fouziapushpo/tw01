@@ -1,4 +1,6 @@
-echo "# tw01" >> README.md
+
+
+echo "# tw01" >> README.md 
 git init
 git add README.md
 git commit -m "first commit"
